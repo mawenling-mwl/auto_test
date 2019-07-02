@@ -1,0 +1,7 @@
+<suite name = "TestNGSuite">
+    <test name = "test1">
+        <classes>   #实现运行多个测试用例的不同组合。
+            <class name = "com.course.testng.BasicAnnotation"/>
+        </classes>
+    </test>
+</suite>
